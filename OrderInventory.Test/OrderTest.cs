@@ -6,9 +6,9 @@ using OrderInventory.Data;
 using OrderInventory.Models;
 using OrderInventory.Services.Orders;
 
-namespace OrderInventory.Test
+namespace OrderInventory.Tests
 {
-    public class OrderTests
+    public class OrderTest
     {
         private (AppDbContext Db, SqliteConnection Connection) GetSqliteInMemoryDb()
         {

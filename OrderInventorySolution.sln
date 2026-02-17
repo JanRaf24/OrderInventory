@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36930.0 d17.14
+VisualStudioVersion = 17.14.36930.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderInventory", "OrderInventory\OrderInventory.csproj", "{36CEAE2B-596A-4DDF-A18C-C61F683C7EE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderInventory.Test", "OrderInventory.Test\OrderInventory.Test.csproj", "{8730FEA9-2BDA-482F-8DD8-28FFAADB94EE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderInventory.Tests", "OrderInventory.Test\OrderInventory.Tests.csproj", "{8730FEA9-2BDA-482F-8DD8-28FFAADB94EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

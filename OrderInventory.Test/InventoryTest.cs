@@ -5,9 +5,9 @@ using OrderInventory.Models;
 using OrderInventory.Services.Inventories;
 using FluentAssertions;
 
-namespace OrderInventory.Test
+namespace OrderInventory.Tests
 {
-    public class InventoryTests
+    public class InventoryTest
     {
         private AppDbContext GetInMemoryDb() => new(new DbContextOptionsBuilder<AppDbContext>()
             .UseInMemoryDatabase(Guid.NewGuid().ToString()).Options);

@@ -100,8 +100,6 @@ Sets stock level for a SKU.
 2.  Set OrderInventory as startup project
 3.  Press Run
 
-Swagger UI: https://localhost:`<port>`
-
 ------------------------------------------------------------------------
 
 ## Database
